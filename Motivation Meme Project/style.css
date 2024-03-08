@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+}
+
+p {
+  font-size: 30px;
+  color: white;
+  font-family: "Libre Baskerville";
+  margin: 20px;
+}
+
+.dialogue {
+    color: red;
+}
+
+video {
+  border: 2px solid white;
+  width: 800px;
+  height: 450px;
+  object-fit: fill;
+  margin: 0 50px;
+}
+
+div {
+  margin: 0 100px;
+}
